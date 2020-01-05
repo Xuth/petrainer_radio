@@ -43,3 +43,6 @@ The solitary bit with the start code is a 0 for the two units (I'd wager that it
 	is this just a simplistic checksum?  It is a check against shock instead of vibrate for instance and similarly which collar
 	and if the 16 bit paired ID isn't correct it likely just doesn't do anything (what are the odds that another of these things
 	is in the area with the ID off by one and that's the bit that gets messed up?)
+
+
+More info and my working notes are in signal_decoding.txt
